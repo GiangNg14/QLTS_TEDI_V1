@@ -1,0 +1,6 @@
+{
+  "name": "TEDI - Hệ thống Mua sắm & Quản lý Tài sản",
+  "description": "Hệ thống Quản lý Mua sắm, Kho, Bảo trì và Tài sản cố định cho Tổng công ty TEDI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
